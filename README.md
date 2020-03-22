@@ -23,3 +23,12 @@
 - `npm i -D eslint babel-eslint eslint-config-airbnb eslint-plugin-import eslint-plugin-react eslint-plugin-jsx-a11y` and create .eslintrc
 - `npm i -D file-loader` and configure in webpack.config.js
 - `sudo npm i -d json-server -g` and create initialState.json. Require sudo permissions
+
+
+
+#### React Router - Redux
+- `npm install react-router-dom --save`
+- `npm install react-redux --save` create actions and reducers folders
+
+- `npm i -s md5`
+- `npm i -s classnames`
