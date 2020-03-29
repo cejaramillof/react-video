@@ -1,6 +1,6 @@
-## React-Video
+## video-react
 
-- `mkdir react-video`
+- `mkdir video-react`
 - `git init`
 - `npm init -y`
 - `mkdir src` (source code)
